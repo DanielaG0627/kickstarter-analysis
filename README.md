@@ -31,12 +31,13 @@ The main challenge I encountered while performing Louise\'92s analysis was worki
 2. The worst month to launch a crowd-funding theater campaign is December.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Campaigns with a budget of $5,000 or less have a higher success rate.
 
 - What are some limitations of this dataset?
-1. There isn\'92t enough data about plays with a budget over $25,000.
-2. The most recent data is from 2017 (four years old).
 
+1. There isn't enough data about plays with a budget over $25,000.
+2. The most recent data is from 2017 (four years old).
 
 - What are some other possible tables and/or graphs that we could create?
 1. Average time a campaign is live.
