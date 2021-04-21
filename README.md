@@ -32,7 +32,7 @@ The main challenge I encountered while performing Louise\'92s analysis was worki
 
 - What can you conclude about the Outcomes based on Goals?
 
-Campaigns with a budget of $5,000 or less have a higher success rate.
+-- Campaigns with a budget of $5,000 or less have a higher success rate.
 
 - What are some limitations of this dataset?
 
